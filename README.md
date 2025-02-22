@@ -1,1 +1,3 @@
-# an-lise_de_sentimentos_nlp
+# Análise de sentimentos (nlp), com o uso da plataforma Hugging Face.
+
+A **análise de sentimentos** é uma técnica de **Processamento de Linguagem Natural (NLP)** usada para identificar e classificar emoções em textos, como positivo, negativo ou neutro. Com o uso da **plataforma Hugging Face**, essa tarefa se torna mais acessível e eficiente, graças a modelos pré-treinados baseados em arquiteturas avançadas, como **BERT** e **RoBERTa**. A biblioteca **Transformers** da Hugging Face permite carregar esses modelos com poucas linhas de código, facilitando sua integração em aplicações que precisam interpretar opiniões de usuários, avaliar feedbacks ou monitorar sentimentos em redes sociais.
